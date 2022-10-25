@@ -316,25 +316,25 @@ p, li { white-space: pre-wrap; }
      <rect>
       <x>20</x>
       <y>0</y>
-      <width>100</width>
+      <width>140</width>
       <height>30</height>
      </rect>
     </property>
     <property name="text">
-     <string>Author: </string>
+     <string>Author: Shiotsuki</string>
     </property>
    </widget>
    <widget class="QLabel" name="Version">
     <property name="geometry">
      <rect>
-      <x>440</x>
+      <x>420</x>
       <y>0</y>
-      <width>160</width>
+      <width>180</width>
       <height>30</height>
      </rect>
     </property>
     <property name="text">
-     <string>Version: 1.0</string>
+     <string>Version: 1.0 2022-10</string>
     </property>
    </widget>
   </widget>
